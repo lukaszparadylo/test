@@ -21,7 +21,7 @@ public class Main
             }
         }
         System.out.println(min);
-        int a;
+        int afds;
 
 
 
